@@ -20,3 +20,7 @@
   padding-left: 1em !important;
   text-indent: -1em !important;
 }
+
+.Custom .slick-dots li {
+  width: 1px;
+}
